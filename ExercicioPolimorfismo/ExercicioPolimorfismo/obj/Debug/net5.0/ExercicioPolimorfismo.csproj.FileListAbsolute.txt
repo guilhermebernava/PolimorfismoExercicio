@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.exe
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.deps.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.runtimeconfig.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ref\ExercicioPolimorfismo.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ref\ExercicioPolimorfismo.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\PolimorfismoExercicio\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.genruntimeconfig.cache
